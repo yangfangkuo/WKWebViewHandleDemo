@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BC3F80A623B3582F0094C8A8 /* WKWebView+Custome.m in Sources */ = {isa = PBXBuildFile; fileRef = BC3F80A523B3582F0094C8A8 /* WKWebView+Custome.m */; };
 		BC4EAA8D23AC796300874D9B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BC4EAA8C23AC796300874D9B /* AppDelegate.m */; };
 		BC4EAA9023AC796300874D9B /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BC4EAA8F23AC796300874D9B /* SceneDelegate.m */; };
 		BC4EAA9323AC796300874D9B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BC4EAA9223AC796300874D9B /* ViewController.m */; };
@@ -35,6 +36,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BC3F80A423B3582F0094C8A8 /* WKWebView+Custome.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WKWebView+Custome.h"; sourceTree = "<group>"; };
+		BC3F80A523B3582F0094C8A8 /* WKWebView+Custome.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "WKWebView+Custome.m"; sourceTree = "<group>"; };
 		BC4EAA8823AC796300874D9B /* WKWebViewHandleDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WKWebViewHandleDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC4EAA8B23AC796300874D9B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		BC4EAA8C23AC796300874D9B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -123,6 +126,8 @@
 				BC4EAA8F23AC796300874D9B /* SceneDelegate.m */,
 				BC4EAA9123AC796300874D9B /* ViewController.h */,
 				BC4EAA9223AC796300874D9B /* ViewController.m */,
+				BC3F80A423B3582F0094C8A8 /* WKWebView+Custome.h */,
+				BC3F80A523B3582F0094C8A8 /* WKWebView+Custome.m */,
 				BC4EADF523AC7B5900874D9B /* CustomURLSchemeHandler.h */,
 				BC4EADF623AC7B5900874D9B /* CustomURLSchemeHandler.m */,
 				BC4EAA9423AC796300874D9B /* Main.storyboard */,
@@ -276,6 +281,7 @@
 				BC4EADF423AC7B0C00874D9B /* AFSecurityPolicy.m in Sources */,
 				BC4EAA9E23AC796400874D9B /* main.m in Sources */,
 				BC4EADF123AC7B0C00874D9B /* AFURLSessionManager.m in Sources */,
+				BC3F80A623B3582F0094C8A8 /* WKWebView+Custome.m in Sources */,
 				BC4EADF323AC7B0C00874D9B /* AFNetworkReachabilityManager.m in Sources */,
 				BC4EADEB23AC7B0C00874D9B /* UIActivityIndicatorView+AFNetworking.m in Sources */,
 				BC4EAA9023AC796300874D9B /* SceneDelegate.m in Sources */,
